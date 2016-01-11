@@ -49,7 +49,7 @@
     <!-- Download dialog -->
     <string name="dialog_downloading">Downloading</string>
     <string name="dialog_article_data">Downloading article data...</string>
-    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_splash">Article Reader</string>
 
     <string name="action_settings">Settings</string>
 
