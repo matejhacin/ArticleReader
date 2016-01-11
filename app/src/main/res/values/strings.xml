@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="app_name">Article Reader</string>
+    <string name="title_activity_main">WELCOME</string>
+    <string name="title_activity_about">About</string>
+    <string name="placeholder_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac nulla at lacus congue finibus vitae a libero. Nunc ut eros in nunc faucibus gravida. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent eu placerat enim.</string>
+    <string name="title_activity_browse">SEARCH</string>
+    <string name="title_activity_article_list">Articles</string>
+    <string name="title_activity_article">ArticleActivity</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+
+    <!-- Actions -->
+    <string name="action_refresh_data">Download data</string>
+    <string name="action_about">About</string>
+    <string name="action_search">Search</string>
+
+    <!-- Main Activity -->
+    <string name="main_search">SEARCH</string>
+    <string name="main_last_viewed">Last viewed articles</string>
+    <string name="main_alert_title">Oops!</string>
+    <string name="main_alert_message">You don\'t have an internet connection, please make sure you are connected to the internet and then try again.</string>
+    <string name="main_alert_message_no_data">You don\'t have an internet connection and it seems like you haven\'t downloaded your data yet. Please connect to the internet and try again.</string>
+    <string name="main_alert_ok">OK</string>
+
+
+    <!-- Browse Activity -->
+    <string name="browse_dialog_title">Search articles</string>
+    <string name="browse_dialog_search">Search</string>
+    <string name="browse_dialog_cancel">Cancel</string>
+    <string name="browse_dialog_empty">Search query is empty!</string>
+
+
+    <!-- Article List Activity -->
+    <string name="list_dialog_title">Oops!</string>
+    <string name="list_dialog_message1">Your search query \"</string>
+    <string name="list_dialog_message2">\" didn\'t return any results</string>
+    <string name="list_dialog_back">Back</string>
+
+    <!-- Article Activity -->
+    <string name="article_gallery_button">GALLERY</string>
+    <string name="article_related_articles_button">RELATED ARTICLES</string>
+    <string name="article_related_articles">Related articles</string>
+    <string name="article_no_related_articles">There are no related articles!</string>
+    <string name="article_no_images">There are no images for this article!</string>
+
+    <!-- Gallery Fragment -->
+    <string name="gallery_button">RETURN TO ARTICLE</string>
+    
+    <!-- Download dialog -->
+    <string name="dialog_downloading">Downloading</string>
+    <string name="dialog_article_data">Downloading article data...</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
